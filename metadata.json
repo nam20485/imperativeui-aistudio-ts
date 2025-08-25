@@ -1,0 +1,5 @@
+{
+  "name": "ImperativeUI: AI Form Generator",
+  "description": "An application that takes a JSON configuration file, parses it to find variable names and types, and uses the Gemini AI to generate a React UI component that acts as a form for user input.",
+  "requestFramePermissions": []
+}
